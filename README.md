@@ -24,11 +24,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto básico onde é possível alternar o modo para escuro e claro e possui alguns botões e ícones que redirecionam para páginas na web.
 
-## 📝 Layout
+## 📔 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/t8k6ngM0t9qL5uMgjI6hT5/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1437-191&t=PrSJOxQnNxDSmGUY-0>)
 
-# :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
