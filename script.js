@@ -6,9 +6,9 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     image.setAttribute("src", "./assets/avatar-light.png")
-    image.setAttribute("alt", "Foto de Mayk Brito sorrindo, usando óculos de sol, camiseta preta, barba e fundo degradê roxo e azul.")
+    image.setAttribute("alt", "Foto de Vinicius Espinosa usando óculos de sol, camiseta preta e barba.")
   } else {
     image.setAttribute("src", "./assets/avatar.png")
-    image.setAttribute("alt", "Foto de Mayk Brito sorrindo, usando óculos de grau, camiseta preta, barba e fundo degradê roxo e azul.")
+    image.setAttribute("alt", "Foto de Vinicius Espinosa usando óculos de grau, camiseta preta e barba.")
   }
 }
